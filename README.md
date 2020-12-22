@@ -19,6 +19,6 @@ sudo apt-get install python
 
 This command should do the trick
 
-Here is how I wired it. Disclaimer, I have pretty much no idea what I'm doing, so I just googled for a while and found this. Keep in mind that in the code, I use pin 17, 27 and 22 as opposed to this diagram. I also used 1k resistor for each LED. 
+Here is how I wired it, I also used 1k resistor for each LED. 
 
 ![wiring diagram](https://i.imgur.com/YTUmdbk.png)
